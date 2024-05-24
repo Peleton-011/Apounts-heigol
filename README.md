@@ -2,6 +2,24 @@
 
 # heigol
 
+El tema de la metafísica y postmetafísica en el pensamiento de Hegel es amplio y complejo, abarcando diversas cuestiones que van desde la naturaleza del ser y la realidad hasta la ética y la historia. En su obra, Hegel asigna a la filosofía la tarea de pensar la vida como una totalidad histórica, buscando la realización plena del ser humano y del espíritu¹.
+
+Los subtemas dentro de este marco incluyen:
+- **El núcleo metafísico de la filosofía de Hegel**: Se refiere a los conceptos fundamentales que sostienen la estructura y coherencia del sistema hegeliano. Hegel intenta descubrir la lógica del movimiento de lo real y evita la construcción deductiva del pensamiento¹.
+- **La relación entre lo lógico y lo ético**: Este subtema explora cómo la Filosofía del Derecho de Hegel actualiza la relación entre estos dos aspectos, considerando la independencia de la Ciencia de la Lógica y las premisas metafísicas desarrolladas en su obra².
+- **La crisis del pensamiento moderno y el fin de la metafísica**: Hegel es a menudo identificado como el mayor exponente de la crisis del pensamiento moderno y el declarado fin de la metafísica, lo que plantea preguntas sobre la relevancia de su sistema en el contexto actual¹.
+
+Estos subtemas son esenciales para comprender la contribución de Hegel a la filosofía y cómo su pensamiento se relaciona con los desafíos contemporáneos de la metafísica y la postmetafísica.
+
+Origen: Conversación con Bing, 24/5/2024
+(1) Metafísica y ética en el pensamiento de Hegel - Dialnet. https://dialnet.unirioja.es/descarga/articulo/2731189.pdf.
+(2) Entre el pensamiento post-metafísico y el post-fundacionalismo. La .... https://proyectoscio.ucv.es/wp-content/uploads/2020/02/1072-1072-1-PB.pdf.
+(3) 6: Metafísica - LibreTexts Español. https://bing.com/search?q=Tema+y+subtemas+de+la+metafisica+y+postmetafisica+de+Hegel.
+(4) La metafísica y su relación con la filosofía: una exploración profunda. https://educadua.com/la-metafisica-y-su-relacion-con-la-filosofia-una-exploracion-profunda/.
+(5) Metafísica, postmetafísica y cultura - Dialnet. https://dialnet.unirioja.es/servlet/articulo?codigo=9382715.
+(6) undefined. https://doi.org/10.3989/isegoria.2019.061.04.
+(7) undefined. https://orcid.org/0000-0001-8168-0754.
+
 La dialéctica de Hegel es un enfoque filosófico complejo que busca explicar el desarrollo de las ideas y la realidad a través de un proceso dinámico de contraposición y resolución. Este enfoque se articula principalmente en tres etapas: Tesis, Antítesis y Síntesis. Aquí tienes un desglose de los temas y subtemas principales en la dialéctica hegeliana:
 
 ### 1. **Tesis, Antítesis y Síntesis**
