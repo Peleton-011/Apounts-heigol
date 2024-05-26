@@ -161,3 +161,48 @@ Tomás de Aquino argumenta que, dado que la substancia es lo primero en el géne
 En el Capítulo Sexto, Tomás de Aquino aclara cómo los accidentes no tienen una existencia independiente y requieren de un sujeto para existir, diferenciándose de las substancias que tienen un ser propio. Además, se destaca la distinción entre formas substanciales y accidentales, subrayando que las formas substanciales son parte de la esencia completa de un ente, mientras que las formas accidentales no lo son. Finalmente, se concluye que la substancia actúa como causa de los accidentes, reafirmando la primacía de la substancia en el orden del ente【28:0†source】.
 
 Esta interpretación subraya la complejidad y la profundidad del pensamiento de Tomás de Aquino en su tratamiento de la metafísica, mostrando cómo los conceptos de ente y esencia se interrelacionan y cómo se diferencian en su aplicación a substancias y accidentes.
+
+El capítulo séptimo de la obra "De Ente et Essentia" de Tomás de Aquino se centra en la distinción entre esencia y existencia en las sustancias compuestas y simples, así como en el modo en que estas sustancias se diferencian por sus grados de perfección. A continuación, se expone un análisis detallado de los puntos principales del capítulo.
+
+### Resumen del Capítulo Séptimo
+
+1. **Distinción entre Esencia y Existencia**:
+   Tomás de Aquino establece una distinción crucial entre esencia y existencia. En las sustancias compuestas, la esencia está constituida por una combinación de materia y forma, mientras que en las sustancias simples, la esencia no puede dividirse de la misma manera.
+
+2. **Sustancias Compuestas y Simples**:
+   - En las sustancias compuestas, como los seres humanos, la esencia incluye tanto la materia como la forma. La materia es lo que permite la individuación, mientras que la forma es lo que define la especie.
+   - En las sustancias simples, como los ángeles, la esencia y la existencia no se distinguen de la misma manera, ya que no están compuestas de materia y forma. Sin embargo, los ángeles se distinguen entre sí por los grados de perfección de su esencia.
+
+3. **Perfección y Diferencia Específica**:
+   Aquino discute cómo las sustancias simples pueden diferenciarse unas de otras. A diferencia de las sustancias compuestas, donde la diferencia específica se basa en la forma asumida por la materia, en las sustancias simples, la diferenciación se basa en el grado de perfección.
+
+4. **Intelectualidad y Grados de Perfección**:
+   La intelectualidad es una característica que se utiliza para clasificar las sustancias simples. Aquino sugiere que las diferencias en grado de perfección entre estas sustancias están más allá de nuestra comprensión completa, pero son esenciales para su diferenciación.
+
+### Conceptos Clave
+
+- **Esencia (Essentia)**:
+  Es aquello que define qué es una cosa. En las sustancias compuestas, incluye tanto la materia como la forma. En las sustancias simples, la esencia es una y no divisible.
+  
+- **Existencia (Esse)**:
+  Es el acto de ser, aquello que hace que una esencia particular exista en la realidad. Para las sustancias compuestas, la existencia es distinta de la esencia, mientras que en las sustancias simples esta distinción no se aplica de la misma manera.
+  
+- **Materia y Forma**:
+  La materia es el principio de individuación y la forma es lo que determina la especie de la sustancia. Esta dicotomía es fundamental para entender la naturaleza de las sustancias compuestas.
+  
+- **Perfección**:
+  La perfección se refiere al grado en que una sustancia realiza su esencia. En las sustancias simples, los grados de perfección son lo que diferencian unas de otras.
+
+### Ejemplo y Analogías
+
+Aquino utiliza analogías para explicar sus conceptos. Por ejemplo, compara la perfección en sustancias simples con los grados de blancura en un objeto. Aunque la blancura puede variar en intensidad, sigue siendo la misma cualidad. De manera similar, los grados de perfección en las sustancias simples no cambian su naturaleza esencial, pero sí las diferencian unas de otras.
+
+### Aplicaciones Filosóficas
+
+La discusión de Tomás de Aquino sobre la esencia y la existencia ha tenido una profunda influencia en la filosofía medieval y posterior. Su distinción entre esencia y existencia ha sido fundamental en el desarrollo de la metafísica y ha influenciado a filósofos como Heidegger y Sartre en su análisis del ser y la existencia.
+
+### Conclusión
+
+El capítulo séptimo de "De Ente et Essentia" es esencial para entender la metafísica de Tomás de Aquino. La distinción entre esencia y existencia, así como la explicación de las sustancias compuestas y simples, ofrece una base sólida para la comprensión de la naturaleza del ser y la diferenciación de las entidades en función de su perfección y su forma.
+
+Esta explicación resume y expande los conceptos presentados en el capítulo séptimo, proporcionando una base detallada para su estudio y comprensión【6:0†source】【6:1†source】【6:4†source】.
