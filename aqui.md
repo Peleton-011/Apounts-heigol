@@ -52,3 +52,29 @@ En el segundo capítulo de "De ente et essentia", Santo Tomás de Aquino profund
 Santo Tomás concluye que la esencia en las sustancias compuestas comprende tanto la materia como la forma, y que esta comprensión es esencial para una correcta definición de las sustancias naturales. Este enfoque evita errores conceptuales que podrían surgir si se intentara definir las sustancias solo en términos de materia o forma【12:0†source】【12:1†source】.
 
 Este capítulo proporciona una base sólida para entender cómo Tomás de Aquino concibe la relación entre materia y forma en la constitución de las sustancias naturales, destacando la interdependencia de ambos componentes en la determinación de la esencia.
+
+### Análisis del Capítulo Tercero de "De ente et essentia"
+
+#### Introducción
+
+En el tercer capítulo de "De ente et essentia", Santo Tomás de Aquino aborda cómo la esencia se relaciona con los conceptos lógicos de género, especie y diferencia. Este análisis es crucial para entender cómo se clasifican y se comprenden las sustancias dentro de una estructura lógica y metafísica más amplia.
+
+#### La Relación de la Esencia con los Universales
+
+1. **Esencia y Universales**: Tomás de Aquino empieza explicando que los conceptos de género, especie y diferencia no pueden atribuirse a la esencia de una sustancia cuando esta se entiende solo como una parte (por ejemplo, la humanidad o animalidad de un individuo). Estos conceptos deben relacionarse con la esencia cuando se considera en su totalidad, tal como se expresa en los términos 'hombre' o 'animal'【16:0†source】.
+
+2. **Avicena y la Racionalidad**: Se refiere a Avicena, quien afirmó que la racionalidad no es la diferencia, sino el principio de diferencia. Del mismo modo, la humanidad no es una especie, ni la animalidad es un género. Esto subraya que los conceptos universales deben ser comprendidos como totalidades y no como partes de la esencia【16:0†source】.
+
+3. **Esencia y Existencia Separada**: Tomás argumenta contra la noción platónica de que los universales existen independientemente de los individuos. Si fuera así, los géneros y las especies no podrían predicarse de los individuos concretos. En cambio, sostiene que la esencia, entendida como una totalidad que incluye tanto la forma como la materia común, es lo que permite la predicación de los universales sobre los individuos【16:0†source】.
+
+#### La Esencia como Totalidad
+
+1. **Totalidad de la Esencia**: La esencia debe entenderse en su totalidad para que los conceptos universales puedan aplicarse a ella. Por ejemplo, el término 'hombre' incluye tanto la racionalidad (forma) como la materialidad común (carne y huesos) en una totalidad implícita e indistinta. Este enfoque permite que los universales sean predicables de los individuos específicos sin caer en reduccionismos【16:0†source】【16:2†source】.
+
+2. **Indivisibilidad de la Forma**: Se discute cómo algunas formas, como las almas de los animales perfectos, no se dividen por la división del sujeto, manteniendo su totalidad en cada parte del cuerpo. Esto refuerza la idea de que la forma, aunque aplicada a un individuo, conserva una especie de integridad que permite su predicación universal【16:3†source】.
+
+#### Conclusión del Capítulo
+
+Tomás de Aquino concluye que para que los conceptos de género, especie y diferencia sean aplicables a las sustancias compuestas, es necesario considerar la esencia como una totalidad que integra tanto la forma como la materia común. Esto evita los errores de considerar la esencia solo como una parte y permite una comprensión más coherente de cómo los universales pueden predicarse de los individuos【16:0†source】.
+
+Este capítulo es fundamental para entender la postura de Tomás de Aquino sobre la metafísica de la esencia y su relación con la lógica de los universales, proporcionando una base para su sistema filosófico y teológico.
