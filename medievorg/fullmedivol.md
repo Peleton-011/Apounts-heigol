@@ -96,3 +96,9 @@ Es refereix a una teoria desenvolupada per distingir entre dues formes d'intenci
 
 </details>
 
+<details>
+<summary>Miscelània</summary>
+
+[Explicació completa](/medievorg/idk.md)
+</details>
+
