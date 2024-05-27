@@ -24,6 +24,12 @@
 <summary>El nou Aristòtil</summary>
 
 [Explicació completa](/medievorg/nou-aristotil.md)
+
+La questió del "nou Aristòtil a l'edat mitjana" fa referència al fenomen de la redescoberta i reintroducció del pensament d'Aristòtil a Europa occidental durant l'edat mitjana. Després d'un període en què els textos d'Aristòtil havien estat en gran part ignorats o rebutjats en favor de les obres de Plató i d'altres autors clàssics, els textos aristotèlics van ser redescoberts i traduïts a l'Europa medieval occidental a partir dels segles XII i XIII.
+
+Aquesta redescoberta va tenir un impacte profund en la filosofia, la teologia i la ciència europees. Aristòtil va ser vist com una autoritat filosòfica i científica renovada, i molts estudiosos van intentar reconciliar el seu pensament amb la fe cristiana i la teologia medieval. Això va donar lloc a una sèrie de debats i interpretacions sobre com integrar les noves idees d'Aristòtil amb la doctrina cristiana establerta.
+
+Un dels aspectes més destacats d'aquesta recepció d'Aristòtil va ser l'enorme influència que va tenir en el desenvolupament de la escolàstica, una tradició filosòfica i teològica dominant a l'edat mitjana. Filòsofs i teòlegs com Tomàs d'Aquino van fer un ús extensiu dels escrits d'Aristòtil per formular arguments teològics i filosòfics. En resum, la qüestió del "nou Aristòtil a l'edat mitjana" refereix a aquesta renovada importància i influència d'Aristòtil durant aquest període històric.
 </details>
 
 <details>
