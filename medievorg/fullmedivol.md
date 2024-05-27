@@ -18,6 +18,20 @@
 <summary>Pere Abelard</summary>
 
 [Explicació completa](/medievorg/Abelardo.md)
+
+Pere Abelard (1079-1142) va ser un dels filòsofs i teòlegs més influents de l'edat mitjana. La seva filosofia es desenvolupa en el context de la renaixença del segle XII, una època de renovació intel·lectual a Europa, marcada pel redescobriment de textos antics i per la fundació de les primeres universitats.
+
+Abelard és conegut per la seva contribució a la lògica, la teologia i l'ètica, i és especialment famós per les seves innovadores idees sobre la relació entre la fe i la raó. Alguns punts clau de la seva filosofia són:
+
+1. **Lògica i Nominalisme**: Abelard va ser un dels primers defensors del nominalisme, la teoria que sosté que els universals (conceptes generals com "humanitat" o "animalitat") no tenen existència real fora de la ment humana. Segons Abelard, només els individus concrets existeixen realment, mentre que els universals són només noms o expressions verbals que utilitzem per descriure grups d'objectes similars.
+
+2. **La seva obra "Sic et Non"**: En aquest llibre, Abelard compila una sèrie de citacions contradictòries dels Pares de l'Església per mostrar les dificultats en la interpretació de textos teològics. L'objectiu d'Abelard era promoure una anàlisi crítica i racional dels textos sagrats, fent servir la lògica per resoldre les contradiccions aparentment insolubles.
+
+3. **Ètica i Intencionalitat**: En la seva obra "Ethica" o "Scito te ipsum" (Coneix-te a tu mateix), Abelard argumenta que l'element clau de la moralitat no és l'acte en si mateix, sinó la intenció darrere l'acte. Segons Abelard, una acció només és moralment bona o dolenta segons la intenció amb què es fa, una idea que va influir profundament en la teologia moral posterior.
+
+4. **Conflicte amb l'Església**: Les idees d'Abelard sovint el van portar a conflictes amb l'autoritat eclesiàstica. Va ser condemnat per heretgia en diverses ocasions i va tenir una vida personal tumultuosa, marcada pel seu amor amb Heloïsa i les conseqüències d'aquest afer.
+
+En resum, Pere Abelard va ser una figura central en el desenvolupament de la filosofia escolàstica, destacant per la seva insistència en l'ús de la raó per entendre la fe i per la seva contribució a la lògica i l'ètica. La seva influència es va estendre més enllà de la seva època, marcant un punt d'inflexió en la filosofia medieval.
 </details>
 
 <details>
