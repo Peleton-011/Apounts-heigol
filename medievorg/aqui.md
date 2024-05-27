@@ -187,3 +187,21 @@ Les cinc vies de Tomàs d'Aquino estan profundament influenciades per la filosof
    - **Altres influències**: El pensament estoic també influeix aquesta via, ja que els estoics creien en un univers ordenat i dirigit per una raó divina (Logos).
 
 En resum, Tomàs d'Aquino va aprofitar les idees aristotèliques i les va fusionar amb el pensament cristià i altres influències filosòfiques per formular les seves cinc vies. Aquestes vies són un exemple clàssic de la síntesi entre la fe i la raó, utilitzant la filosofia per justificar i explicar les doctrines teològiques.
+
+---
+
+Aristòtil descriu el motor immòbil en les seves obres, especialment en "Metafísica". El concepte del motor immòbil és clau en la seva filosofia per explicar el moviment i el canvi en l'univers.
+
+Segons Aristòtil, el motor immòbil és una causa primera i final de tot el moviment, però ell mateix no està en moviment. Aquí hi ha algunes idees clau sobre el motor immòbil segons Aristòtil:
+
+1. **Causa Primera**: Aristòtil creia que hi ha d'haver una causa primera que posi en moviment tot el que es mou. Aquesta causa primera no pot ser ella mateixa moguda per una altra cosa, ja que això portaria a una regressió infinita. Per tant, el motor immòbil és necessari com a inici del moviment.
+
+2. **Essència i Acte Pur**: El motor immòbil és acte pur (actualitat pura) sense potencialitat. Això significa que no pot canviar ni moure's perquè no té cap potencialitat de ser alguna cosa diferent del que és. És pura actualitat.
+
+3. **Immaterial i Eterna**: El motor immòbil és immaterial, ja que qualsevol cosa material pot ser canviada i movida. També és etern, ja que el temps i el canvi no poden afectar-lo.
+
+4. **Causa Final**: No només és una causa primera, sinó també una causa final. Això vol dir que totes les coses es mouen cap a ell com a fi últim o propòsit. Per Aristòtil, tot en l'univers té una finalitat, i aquesta finalitat última és el motor immòbil.
+
+5. **Divinitat**: Aristòtil identifica el motor immòbil amb la divinitat. Aquest és l'ésser que pensa en si mateix, un acte de pensament pur (noesis noeseos), i és l'objecte del desig i de la imitació per tot el que existeix en l'univers.
+
+El motor immòbil d'Aristòtil és una idea complexa que combina elements de metafísica, teologia i física antiga per explicar el moviment i el canvi en el món. La seva noció de motor immòbil ha tingut una influència duradora en la filosofia i la teologia, particularment en el pensament escolàstic medieval.
