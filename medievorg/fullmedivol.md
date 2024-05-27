@@ -6,6 +6,14 @@
 <summary>F. Jueva</summary>
 
 [Explicació completa](/medievorg/judy.md)
+
+Durant l'Edat Mitjana, la filosofia jueva es va desenvolupar principalment en dues àrees geogràfiques: la Península Ibèrica i el món islàmic, i a Europa central i oriental. En aquests entorns, els filòsofs jueus van buscar reconciliar la fe jueva amb les idees filosòfiques contemporànies, sobretot influïts per Aristòtil i els filòsofs grecs, i més tard per les idees de Maimònides.
+
+A la Península Ibèrica, destaca la figura de Maimònides, un eminent filòsof jueu andalusí que va viure al segle XII. Maimònides va intentar harmonitzar la fe jueva amb el pensament aristotèlic i neoplatònic. La seva obra mestra, "Guia dels perplexe", tracta sobre aquesta conciliació entre la raó i la fe, i és una de les obres filosòfiques més importants de l'Edat Mitjana.
+
+Al món islàmic, destacats filòsofs jueus com Saadia Gaon i Abraham ibn Ezra van contribuir al desenvolupament del pensament jueu, utilitzant les idees de la filosofia àrab islàmica per interpretar la tradició jueva.
+
+A Europa central i oriental, la filosofia jueva es va centrar més en la interpretació i comentari de textos religiosos, especialment la Torà i el Talmud. Filòsofs com Rashi i Tosafot van fer contribucions importants a la comprensió del pensament jueu i van influir en la pràctica religiosa i la vida comunitària.
 </details>
 
 <details>
