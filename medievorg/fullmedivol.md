@@ -12,6 +12,12 @@
 <summary>F. Bizantina</summary>
 
 [Explicació completa](/medievorg/bizness.md)
+
+Aquesta filosofia se centra en temes teològics, metafísics i ètics, destacant per la seva atenció a la relació entre la raó i la fe.
+
+Els filòsofs bizantins van preservar i comentar les obres dels clàssics grecs, com Plató i Aristòtil, integrant-les amb la doctrina cristiana. Figures importants inclouen Pseudo-Dionís Areopagita, que va fusionar el neoplatonisme amb la teologia cristiana, i Joan Damascè, conegut pels seus escrits teològics sistemàtics.
+
+La filosofia bizantina també es va preocupar per la defensa de l'ortodòxia cristiana contra heretgies i per la formulació de doctrines teològiques clau, com la natura de Crist i la Trinitat. Així, va jugar un paper crucial en la configuració del pensament teològic i filosòfic de l'Europa medieval i influencià tant l'Orient com l'Occident cristians.
 </details>
 
 <details>
