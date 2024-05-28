@@ -39,14 +39,14 @@ Kant fa una distinció crucial entre fenòmens i noümens:
 ```mermaid
 graph TD;
 
-    Experiència (Fenòmen)-->Matèria (sensació);
-    Experiència (Fenòmen)-->Forma;
-    Forma-->Espai;
-    Forma-->Temps;
-    Espai-->Fan possible tota intuïció; condició a priori de tota sensibilitat;
-    Temps-->Fan possible tota intuïció; condició a priori de tota sensibilitat;
-    Matèria (sensació)-->Enteniment (concepte);
-    Fan possible tota intuïció; condició a priori de tota sensibilitat-->Enteniment (concepte);
+    "Experiència (Fenòmen)"-->"Matèria (sensació)";
+    "Experiència (Fenòmen)"-->"Forma";
+    "Forma"-->"Espai";
+    "Forma"-->"Temps";
+    "Espai"-->"Fan possible tota intuïció, condició a priori de tota sensibilitat";
+    "Temps"-->"Fan possible tota intuïció, condició a priori de tota sensibilitat";
+    "Matèria (sensació)"-->"Enteniment (concepte)";
+    "Fan possible tota intuïció, condició a priori de tota sensibilitat"-->"Enteniment (concepte)";
 ```
 
 ### Judicis analítics i sintètics
