@@ -29,10 +29,6 @@ Aquest esquema resumeix la relació entre les experiències internes i externes 
 
 Aquestes tres idees trascendentals (Ànima, Món i Déu) són considerades per Kant com a il·lusions trascendentals. No són objectes de coneixement directe, sinó que sorgeixen de la tendència de la raó a buscar el incondicionat en les nostres experiències. Kant argumenta que, tot i que aquestes idees no poden ser conegudes empíricament, tenen un paper regulatiu important en la nostra raó, orientant i estructurant la nostra comprensió del món i de nosaltres mateixos.
 
-### Fenòmens i noümens
-
-Un element central de la filosofia transcendental de Kant és la distinció entre fenòmens i noümens. Els fenòmens són les coses tal com les experimentem, estructurades per les nostres intuïcions sensibles (espai i temps) i les categories de l'enteniment. Els noümens, en canvi, són les coses en si mateixes, independents de la nostra experiència. Kant sosté que no podem conèixer els noümens perquè tota la nostra experiència està mediada per les estructures a priori de la nostra ment.
-
 ### Judicis sintètics a priori
 
 Una de les innovacions més importants de Kant és la seva afirmació que existeixen judicis sintètics a priori. Aquests judicis són aquells que afegeixen informació nova al subjecte (sintètics) però són universals i necessaris, i no depenen de l'experiència (a priori). Això és possible perquè les estructures a priori de la ment (categories i formes de la sensibilitat) organitzen l'experiència abans de qualsevol coneixement empíric.
