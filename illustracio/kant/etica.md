@@ -52,6 +52,14 @@ La llibertat transcendental en la filosofia de Kant és la capacitat inherent de
 
 L'imperatiu categòric és el principi fonamental de la moralitat segons Kant. Es tracta d'un mandat que s'aplica a tothom i en qualsevol situació, independentment dels desitjos i interessos particulars. L'imperatiu categòric té diverses formulacions, cadascuna de les quals il·lumina un aspecte diferent del mateix principi moral.
 
+#### El deure
+
+El deure en la filosofia de Kant és un concepte clau que es deriva de la seva ètica, coneguda com a "ètica deontològica". Per Kant, el deure es fonamenta en l'obligació moral de seguir el deure en si mateix, independentment de les conseqüències o desitjos personals.
+
+Kant defineix el deure com l'obligació de seguir l' "imperatiu categòric", una regla moral universal que totes les persones haurien de seguir independentment de les seves circumstàncies particulars. Aquesta regla sorgeix de la raó pràctica i no es basa en el plaer o en les conseqüències.
+
+Per exemple, si una persona fa una promesa, segons Kant, té el deure moral d'acomplir aquesta promesa independentment de les conseqüències personals que això pugui implicar. Això és a causa que la promesa es basa en un principi moral universal que declara que la veritat i la promesa són valors fonamentals que cal respectar.
+
 #### Mentida i homicidi
 
 Per Kant, la mentida i l'homicidi són actes moralment erronis perquè no poden ser universalitzats sense contradicció. Si tothom mentís, la confiança necessària per a la comunicació desapareixeria. De la mateixa manera, si l'homicidi fos universalitzat, la vida humana deixaria de ser respectada i la societat es desintegraria.
