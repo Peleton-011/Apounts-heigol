@@ -1,31 +1,31 @@
 <details>
-<summary></summary>
+<summary>Il·lustració</summary>
 
-[Il·lustració](/illustracio/Illustracio.md)
-
-</details>
-<details>
-<summary></summary>
-
-[Hobbes](/illustracio/Hobbes.md)
+[Explicació completa](/illustracio/Illustracio.md)
 
 </details>
 <details>
-<summary></summary>
+<summary>Hobbes</summary>
 
-[Locke](/illustracio/Locke.md)
-
-</details>
-<details>
-<summary></summary>
-
-[Rousseau](/illustracio/Rousseau.md)
+[Explicació completa](/illustracio/Hobbes.md)
 
 </details>
 <details>
-<summary></summary>
+<summary>Locke</summary>
 
-[Kant](/illustracio/Kant.md)
+[Explicació completa](/illustracio/Locke.md)
+
+</details>
+<details>
+<summary>Rousseau</summary>
+
+[Explicació completa](/illustracio/Rousseau.md)
+
+</details>
+<details>
+<summary>Kant</summary>
+
+[Explicació completa](/illustracio/Kant.md)
 
 </details>
 
