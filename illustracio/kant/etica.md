@@ -84,6 +84,22 @@ Kant fa una distinció entre moralitat i legalitat:
   
 - **Legalitat**: Es refereix al compliment de les lleis externes, independentment de les motivacions internes. Una acció pot ser legal, però no necessàriament moral, si és feta per por al càstig o per altres motius que no impliquen el respecte a la llei moral.
 
+### La pau perpètua
+
+La idea de la pau perpètua de Kant és una proposta filosòfica que busca establir les condicions necessàries per aconseguir una pau duradora entre les nacions. Va ser plantejada per primera vegada en l'obra "Sobre la pau perpetua" (1795). Per Kant, la pau perpètua no és només l'absència de conflictes armats, sinó una pau fonamentada en principis morals i jurídics que impedeixin la guerra i promoguin la cooperació pacífica entre els Estats.
+
+Aquí hi ha una explicació detallada dels punts clau de la idea de la pau perpètua segons Kant:
+
+1. **Federació de Repúbliques**: Kant proposa la creació d'una federació de repúbliques lliures com a fonament de la pau perpètua. Aquesta federació serviria com a garantia de seguretat col·lectiva, on els Estats membres es comprometrien a resoldre els seus conflictes mitjançant la via pacífica i a defensar-se mútuament en cas d'agressió exterior.
+
+2. **Dret Internacional Cosmopolita**: Kant advoca per l'establiment d'un dret internacional basat en la igualtat i la reciprocitat entre els Estats. Aquest dret internacional ha de regular les relacions entre els Estats i protegir els drets humans fonamentals, així com limitar l'ús de la guerra com a mitjà de resolució de disputes.
+
+3. **Constitucionalisme republicà**: Segons Kant, les societats basades en la llibertat i la igualtat són més propenses a evitar els conflictes bèl·lics. Per tant, la instauració de governs republicans i democràtics en tots els països seria una condició indispensable per aconseguir la pau perpètua. Aquesta idea està vinculada amb la seva creença en la capacitat de la raó humana per aconseguir el progrés moral i polític.
+
+4. **Cosmopolitisme**: Kant defensa la idea d'una comunitat mundial de ciutadans amb drets i deures compartits, que transcendisquin les fronteres nacionals i promoguin la solidaritat i la cooperació entre els individus de tot el món. Aquesta perspectiva cosmopolita implica reconèixer la interdependència entre les diferents parts del món i buscar solucions globals als problemes comuns, com el canvi climàtic, la pobresa o les crisis humanitàries.
+
+La pau perpètua de Kant és una visió utòpica però idealista que aspira a establir un ordre mundial basat en la justícia, la llibertat i la cooperació entre les nacions. Tot i les seves limitacions pràctiques, la seva influència ha estat notable en el desenvolupament de la teoria de les relacions internacionals i en la promoció dels valors democràtics i del dret internacional.
+
 ### Conclusió
 
 L'ètica de Kant és una teoria deontològica que posa l'accent en la importància de les normes morals universals i la intenció darrere de les accions. La seva tercera antinòmia destaca la compatibilitat entre la llibertat moral i la necessitat natural. L'imperatiu categòric proporciona un criteri universal per avaluar la moralitat de les nostres accions, mentre que la distinció entre moralitat i legalitat ens ajuda a entendre que el veritable comportament ètic va més enllà del simple compliment de les lleis externes.
