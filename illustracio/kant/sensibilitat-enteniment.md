@@ -22,6 +22,15 @@ Kant sosté que el coneixement només és possible gràcies a la col·laboració
         B és un Concepte (Pensament de la unitat en la diversitat)
 ```
 
+| Sensibilitat | Enteniment |
+|-|-|
+| · Passivitat (donat) | · Activitat (posat) |
+| · Diversitat (intuïció) -> Sense el concepte és cega, contingut sense forma | · Unitat (concepte) -> Sense la intuïció és buit, forma sense contingut |
+| · Intuïció (particular) | · Concepte (universal) |
+|   · empíric (sensació) |  · empíric |
+|   · pur (espai/temps) |   · sensible pur (matemàtics) |
+||  · a priori (categories) |
+
 #### Coneixement
 
 ```mermaid
@@ -38,6 +47,20 @@ graph TD;
     F-->G;
     G-->|Categories| H[Coneixement];
 ```
+
+### Conceptes
+
+A la filosofia de Kant, els conceptes es divideixen en diverses categories importants que ajuden a entendre com coneixem i comprenem el món. Aquí tens una breu descripció de cadascun dels conceptes que has mencionat:
+
+1. **Conceptes Sensibles Purs (o intuïcions sensibles pures)**: Aquests són els elements bàsics de l'experiència sensorial, com la percepció de l'espai i el temps. Kant argumenta que l'espai i el temps no són propietats del món extern en sí mateix, sinó que són estructures subjectives que la ment imposa a la percepció sensorial per organitzar-la.
+
+2. **Conceptes Empírics**: Són conceptes que s'adquireixen a través de l'experiència sensorial. Aquests conceptes es deriven de les nostres interaccions amb el món extern i estan lligats a experiències concretes. Per exemple, el concepte d'"arbre" es forma a partir de les nostres experiències amb arbres individuals.
+
+3. **Conceptes A priori**: Aquests són conceptes que són independents de l'experiència empírica i s'apliquen universalment a tota experiència possible. Són condicions necessàries per a la possibilitat mateixa de l'experiència. Un exemple clàssic és el concepte de causalitat, que Kant argumenta que no es deriva de l'experiència, sinó que és una estructura bàsica de la ment que s'aplica a totes les nostres percepcions.
+
+4. **Conceptes de la Raó**: Aquests conceptes són els principis generals i abstractes que la raó utilitza per organitzar i comprendre el coneixement. Exemples inclouen conceptes com l'infinit, l'absolut i el perfecte. Kant sosté que la raó tendeix a aplicar aquests conceptes més enllà dels límits de l'experiència, el que pot portar a paradoxes i antinòmies.
+
+Kant argumenta que la combinació d'aquests tipus de conceptes és el que ens permet conèixer el món i tenir una comprensió coherent de la realitat. Els conceptes sensibles i empírics proporcionen el contingut concret de la nostra experiència, mentre que els conceptes a priori i de la raó proporcionen el marc conceptual dins del qual organitzem i comprenem aquesta experiència.
 
 ### Síntesi transcendental
 
