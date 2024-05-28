@@ -1,4 +1,6 @@
 
+### Estètica
+
 La estètica de Kant és una part fonamental de la seva filosofia, especialment desenvolupada a la seva obra "Crítica del Judici". Kant es centra en dos aspectes principals dins de l'estètica: el judici estètic i el concepte de la bellesa.
 
 1. **Judici estètic**: Kant distingeix entre judicis determinants i judicis reflexius. Els judicis determinants són aquells que es basen en regles i conceptes preestablerts per jutjar la veritat o falsedat d'algun cosa. D'altra banda, els judicis reflexius són aquells en els quals no s'apliquen regles prèviament definides, sinó que són subjectius i es basen en l'experiència individual. En l'àmbit estètic, Kant es centra en els judicis reflexius, que estan relacionats amb la bellesa.
