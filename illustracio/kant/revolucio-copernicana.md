@@ -39,13 +39,13 @@ Kant fa una distinció crucial entre fenòmens i noümens:
 ```mermaid
 graph TD;
 
-    A[Experiència (Fenòmen)]-->B[Matèria (sensació)];
+    A["Experiència (Fenòmen)"]-->B["Matèria (sensació)"];
     A-->C[Forma];
     C-->D[Espai];
     C-->E[Temps];
     D-->F[Fan possible tota intuïció; condició a priori de tota sensibilitat];
     E-->F;
-    B-->G[Enteniment (concepte)];
+    B-->G["Enteniment (concepte)"];
     F-->G;
 ```
 
