@@ -27,9 +27,9 @@ Kant sosté que el coneixement només és possible gràcies a la col·laboració
 | · Passivitat (donat) | · Activitat (posat) |
 | · Diversitat (intuïció) -> Sense el concepte és cega, contingut sense forma | · Unitat (concepte) -> Sense la intuïció és buit, forma sense contingut |
 | · Intuïció (particular) | · Concepte (universal) |
-|   · empíric (sensació) |  · empíric |
-|   · pur (espai/temps) |   · sensible pur (matemàtics) |
-||  · a priori (categories) |
+| ► empíric (sensació) | ► empíric |
+| ► pur (espai/temps) | ► sensible pur (matemàtics) |
+|| ► a priori (categories) |
 
 #### Coneixement
 
