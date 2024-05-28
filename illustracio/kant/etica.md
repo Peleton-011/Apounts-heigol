@@ -6,12 +6,17 @@ L'ètica kantiana es basa en la idea que les accions morals no són valorades pe
 
 ### Tercera antinòmia
 
-La tercera antinòmia és una de les quatre antinòmies que Kant exposa en la "Crítica de la raó pura". Aquestes antinòmies són paradoxes que mostren les limitacions de la raó pura quan s'aplica a temes metafísics.
+La tercera antinòmia a Kant tracta sobre la relació entre la llibertat i la necessitat en l'univers. Aquí tens una explicació i la manera com Kant intenta resoldre-la:
 
-- **Tesi**: Existeix una causa necessària i lliure que inicia la sèrie de fenòmens.
-- **Antítesi**: No hi ha llibertat, tot el que passa està determinat per les lleis naturals.
+1. **Tesi**: La llibertat és compatible amb la naturalesa determinada de tots els esdeveniments en l'univers. Aquesta afirmació parteix de la noció de llibertat humana com a capacitat d'actuar lliurement, sense estar sotmès a causes naturals.
 
-La solució de Kant a aquesta antinòmia és distingir entre el món fenomenal (el món tal com el percebem) i el món noümenal (el món en si mateix). Al món fenomenal, tot està determinat per les lleis de la naturalesa. Al món noümenal, però, hi pot haver llibertat, i és en aquest àmbit que es pot pensar la llibertat humana com a condició de la responsabilitat moral.
+2. **Antítesi**: La llibertat és incompatible amb la naturalesa determinada de tots els esdeveniments en l'univers. Aquesta afirmació sosté que, ja que tots els esdeveniments són determinats per lleis naturals, no hi ha espai per a la llibertat genuïna.
+
+Kant presenta una sèrie de raonaments per mostrar que totes dues afirmacions són vàlides en diferents contextos, però són contradictòries quan es tracta d'aplicar-les de manera universal.
+
+Per resoldre aquesta antinòmia, Kant introdueix la idea de que la llibertat humana és una condició de la raó pràctica, és a dir, una idea necessària per a la nostra capacitat de raonar sobre el que hem de fer. Així, mentre que en el món fenomènic (el món de l'experiència) estem sotmesos a les lleis naturals, en el món noumènic (el món de la raó pràctica) som lliures, ja que som capaços de raonar més enllà de les condicions deterministes de l'experiència. 
+
+Aquesta distinció entre el món fenomènic i noumènic és fonamental per a Kant per resoldre l'antinòmia. Segons aquesta perspectiva, en el món fenomènic estem subjectes a la necessitat i les lleis naturals, però en el món noumènic, la raó pràctica ens permet concebre la llibertat com una condició necessària per a la nostra pràctica moral. Així, podem viure i actuar com si fossim lliures, encara que no puguem demostrar la nostra llibertat en termes fenomènics.
 
 ### Imperatiu categòric
 
