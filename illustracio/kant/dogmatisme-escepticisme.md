@@ -1,6 +1,19 @@
 
 El pensament de Kant es troba en un punt intermedi entre el dogmatisme i l'escepticisme. La seva filosofia crítica té com a objectiu superar les limitacions de cadascun d'aquests enfocaments, proporcionant una base sòlida per al coneixement humà.
 
+### Comparació
+
+|    | Dogmàtics | Escèptics |
+|-|-|-|
+| Autors | Leibniz, Christian Wolf | Hume, Berkeley |
+| | · Pretenen conèixer abans de preguntar-se els límits del coneixement | · Dubten de la possibilitat d'establir coneixement |
+| | · Pretensió absoluta de coneixement | · El coneixement prové de l'experiència, que només tracta en singulars, no universals |
+| | · Coneixement estrictament *a priori* (sense remetre a l'experiència) | · Coneixement estrictament *a posteriori* (únicament únicament es pot donar a l'experiència) |
+| |
+| Judicis | **Judicis Analítics** | **Judicis Sintètics** |
+| | Explicatius, el predicat hi és al subjecte i viceversa <br> (tot triangle té tres angles) | Ampliatius, el predicat hi és al subjecte però no de manera ni universal ni necessària <br> (la taula és blava) |
+
+
 ### Dogmatisme
 
 El dogmatisme és l'actitud filosòfica que accepta certs principis com a veritats absolutes i indiscutibles sense qüestionar-los críticament. Els dogmàtics sovint assumeixen que és possible conèixer la realitat tal com és, independentment de les limitacions de la ment humana.
