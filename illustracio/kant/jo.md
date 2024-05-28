@@ -1,4 +1,6 @@
 
+### El Jo Transcendental
+
 Per a Kant, el "jo transcendental" és un concepte clau dins de la seva filosofia, especialment en el marc de la seva crítica de la raó. Aquest concepte es relaciona estretament amb la seva teoria epistemològica, que busca establir els límits i les capacitats del coneixement humà.
 
 El jo transcendental, segons Kant, és la consciència o la subjectivitat que percebem com a essencial per a la nostra experiència del món. És el "jo" que experimenta i organitza les impressions sensorials i les percepcions que tenim del món exterior. Aquest jo transcendental no és un objecte d'experiència, sinó que és la condició de possibilitat de l'experiència mateixa.
