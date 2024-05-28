@@ -32,7 +32,21 @@ Kant presenta una sèrie de raonaments per mostrar que totes dues afirmacions s�
 
 Per resoldre aquesta antinòmia, Kant introdueix la idea de que la llibertat humana és una condició de la raó pràctica, és a dir, una idea necessària per a la nostra capacitat de raonar sobre el que hem de fer. Així, mentre que en el món fenomènic (el món de l'experiència) estem sotmesos a les lleis naturals, en el món noumènic (el món de la raó pràctica) som lliures, ja que som capaços de raonar més enllà de les condicions deterministes de l'experiència. 
 
-Aquesta distinció entre el món fenomènic i noumènic és fonamental per a Kant per resoldre l'antinòmia. Segons aquesta perspectiva, en el món fenomènic estem subjectes a la necessitat i les lleis naturals, però en el món noumènic, la raó pràctica ens permet concebre la llibertat com una condició necessària per a la nostra pràctica moral. Així, podem viure i actuar com si fossim lliures, encara que no puguem demostrar la nostra llibertat en termes fenomènics.
+Segons Kant, la llibertat no és simplement la capacitat de fer el que un vol en un moment donat, sinó la capacitat de ser autònom i seguir les lleis morals que es deriven de la raó pràctica. Per a Kant, la moralitat es fonamenta en la raó i en el deure, i els individus són lliures quan actuen de manera coherent amb la seva raó pràctica, seguint les lleis morals universals que ells mateixos reconeixen com a vàlides.
+
+En el món noumènic, que és inaccessible a la nostra experiència directa, existeix la llibertat en el sentit absolut, és a dir, la capacitat de les persones per a actuar segons la seva pròpia voluntat sense estar sotmeses a cap tipus de determinisme. No obstant això, en el món fenomènic, que és el món que experimentem amb els nostres sentits i la nostra raó, la llibertat és limitada per les condicions empíriques i les lleis de la naturalesa.
+
+Aquesta distinció  és fonamental per a Kant. Segons aquesta perspectiva, en el món fenomènic estem subjectes a la necessitat i les lleis naturals, però en el món noumènic, la raó pràctica ens permet concebre la llibertat com una condició necessària per a la nostra pràctica moral. Així, podem viure i actuar com si fossim lliures, encara que no puguem demostrar la nostra llibertat en termes fenomènics.
+
+### Llibertat transcendental
+
+Per entendre la llibertat transcendental hem de diferenciar-la de la llibertat empírica. La llibertat empírica és la capacitat d'escollir entre diverses opcions basades en desitjos, inclinacions o circumstàncies externes. És una llibertat condicionada pels impulsos i les circumstàncies que envolten a una persona.
+
+D'altra banda, la llibertat transcendental, segons Kant, és la capacitat de l'enteniment per determinar-se a si mateix sense ser necessàriament influït per les forces empíriques. Aquesta llibertat es fonamenta en la idea que l'ésser humà té la capacitat de transcendir els límits de l'experiència empírica i actuar segons les lleis de la raó pràctica.
+
+Per a Kant, la llibertat transcendental és una condició necessària per a la moralitat i la responsabilitat moral. Només si som lliures de les forces deterministes podem ser considerats responsables de les nostres accions morals. Així, la llibertat transcendental és una condició indispensable per a la capacitat de l'ésser humà de fer eleccions moralment significatives i d'actuar segons els imperatius de la raó pràctica, com ara el deure.
+
+La llibertat transcendental en la filosofia de Kant és la capacitat inherent de l'ésser humà per a actuar lliurement d'acord amb la raó pràctica, independentment de les influències empíriques externes.
 
 ### Imperatiu categòric
 
