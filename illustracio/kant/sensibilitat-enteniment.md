@@ -43,6 +43,8 @@ graph TD;
 
 Una de les idees centrals de Kant és la síntesi transcendental, que és el procés mitjançant el qual l'enteniment aplica les seves categories a les intuïcions sensibles per produir coneixement. Aquest procés implica la unificació de les dades disperses de la sensibilitat sota les regles de l'enteniment, creant així una experiència coherent del món.
 
+Part del procés és separar allò que canvia i allò que romàn d'entre l'experiència.
+
 ### Fenòmens i noümens
 
 Un altre aspecte important de la filosofia de Kant és la distinció entre fenòmens i noümens. Els fenòmens són les coses tal com les percebem, estructurades per la nostra sensibilitat i enteniment. Els noümens, en canvi, són les coses en si mateixes, independents de la nostra percepció. Kant argumenta que no podem tenir coneixement dels noümens perquè totes les nostres experiències estan mediades per les formes a priori de la sensibilitat i les categories de l'enteniment. Així, la nostra experiència està limitada al món fenomenal.
