@@ -16,6 +16,19 @@ L'analítica transcendental és la part de la filosofia transcendental que estud
 
 La dialèctica transcendental és la part de la "Crítica de la raó pura" on Kant examina els errors i il·lusions de la raó quan intenta anar més enllà de l'experiència possible. Aquí, Kant tracta dels paralogismes de la raó pura, les antinòmies de la raó pura i els ideals de la raó pura. Es mostra com la raó, en absència de l'experiència, pot caure en contradiccions i falses conclusions quan intenta comprendre la totalitat incondicionada de l'univers.
 
+Aquest esquema resumeix la relació entre les experiències internes i externes i com aquestes porten a les tres idees trascendentals de la raó: ànima, món i Déu. Aquí es desglossa cada part de l'esquema:
+
+1. **Experiència interna => Ànima**:
+   - L'experiència interna es refereix a la nostra auto-percepció i la consciència dels nostres estats mentals i emocionals. Segons Kant, això ens porta a la idea de l'**Ànima**. En la "Dialèctica trascendental" de la *Crítica de la raó pura*, Kant discuteix la "Psicologia racional", que tracta la idea de l'ànima com a una substància simple i immortals basada en la nostra experiència interna.
+
+2. **Experiència externa => Món**:
+   - L'experiència externa es refereix a la nostra percepció i comprensió del món físic a través dels sentits. Això ens porta a la idea del **Món**. En la seva discussió sobre la "Cosmologia racional", Kant examina les antinòmies de la raó pura, les contradiccions inevitables que sorgeixen quan intentem aplicar la raó pura a la totalitat del món extern.
+
+3. **Experiència interna i externa => Déu**:
+   - La combinació de les experiències internes i externes ens porta a la idea de **Déu**. Kant tracta aquesta qüestió en la "Teologia racional", on discuteix com la raó pura postula la idea d'un ésser suprem com a explicació última de la totalitat de l'experiència, tant interna com externa.
+
+Aquestes tres idees trascendentals (Ànima, Món i Déu) són considerades per Kant com a il·lusions trascendentals. No són objectes de coneixement directe, sinó que sorgeixen de la tendència de la raó a buscar el incondicionat en les nostres experiències. Kant argumenta que, tot i que aquestes idees no poden ser conegudes empíricament, tenen un paper regulatiu important en la nostra raó, orientant i estructurant la nostra comprensió del món i de nosaltres mateixos.
+
 ### Fenòmens i noümens
 
 Un element central de la filosofia transcendental de Kant és la distinció entre fenòmens i noümens. Els fenòmens són les coses tal com les experimentem, estructurades per les nostres intuïcions sensibles (espai i temps) i les categories de l'enteniment. Els noümens, en canvi, són les coses en si mateixes, independents de la nostra experiència. Kant sosté que no podem conèixer els noümens perquè tota la nostra experiència està mediada per les estructures a priori de la nostra ment.
