@@ -34,22 +34,6 @@ Kant fa una distinció crucial entre fenòmens i noümens:
   
 - **Noümens**: Són les coses en si mateixes, independentment de la nostra experiència d'elles. Kant sosté que els noümens són inaccessibles a la nostra experiència i coneixement, ja que només podem conèixer els fenòmens.
 
-#### Coneixement
-
-```mermaid
-graph TD;
-
-    A["Experiència (Fenòmen)"]-->B["Matèria (sensació)"];
-    A-->C[Forma];
-    C-->D[Espai];
-    C-->E[Temps];
-    D-->F["Fan possible tota intuïció; 
-    condició a priori de tota sensibilitat"];
-    E-->F;
-    B-->G["Enteniment (concepte)"];
-    F-->G;
-    G-->|Categories| H[Coneixement];
-```
 
 ### Judicis analítics i sintètics
 

@@ -13,6 +13,32 @@ L'enteniment (Verstand), per altra banda, és la facultat activa que processa le
 
 Kant sosté que el coneixement només és possible gràcies a la col·laboració entre sensibilitat i enteniment. Les intuïcions sensibles sense conceptes són cegues, i els conceptes sense intuïcions són buits. Això significa que per a conèixer qualsevol cosa, necessitem tant les dades brutes proporcionades per la sensibilitat com les estructures ordenadores proporcionades per l'enteniment.
 
+```
+    Coneixement === Judici
+    << A és B >>
+
+    on:
+        A és una Intuïció (Fenòmen)
+        B és un Concepte (Pensament de la unitat en la diversitat)
+```
+
+#### Coneixement
+
+```mermaid
+graph TD;
+
+    A["Experiència (Fenòmen)"]-->B["Matèria (sensació)"];
+    A-->C[Forma];
+    C-->D[Espai];
+    C-->E[Temps];
+    D-->F["Fan possible tota intuïció; 
+    condició a priori de tota sensibilitat"];
+    E-->F;
+    B-->G["Enteniment (concepte)"];
+    F-->G;
+    G-->|Categories| H[Coneixement];
+```
+
 ### Síntesi transcendental
 
 Una de les idees centrals de Kant és la síntesi transcendental, que és el procés mitjançant el qual l'enteniment aplica les seves categories a les intuïcions sensibles per produir coneixement. Aquest procés implica la unificació de les dades disperses de la sensibilitat sota les regles de l'enteniment, creant així una experiència coherent del món.
