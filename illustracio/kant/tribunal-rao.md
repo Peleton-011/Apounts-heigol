@@ -1,8 +1,9 @@
-El "tribunal de la raó" és una metàfora utilitzada per Kant per descriure el procés crític pel qual la raó ha de passar per examinar i validar les seves pròpies capacitats i límits. Aquesta idea és central en la seva obra "Crítica de la raó pura", on Kant estableix un marc per avaluar les pretensions de la raó, especialment en les qüestions metafísiques.
 
 ### Context i objectiu
 
-Abans de Kant, la raó havia estat utilitzada tant de manera dogmàtica com escèptica. Els racionalistes com Descartes i Leibniz afirmaven que la raó podia accedir a coneixements absoluts sobre la realitat, mentre que els escèptics com Hume qüestionaven la capacitat de la raó per obtenir coneixement cert. Kant volia trobar un camí entre aquests dos extrems, establint els límits i les possibilitats del coneixement humà.
+Abans de Kant, la raó havia estat utilitzada tant de manera dogmàtica com escèptica. Els racionalistes com Descartes i Leibniz afirmaven que la raó podia accedir a coneixements absoluts sobre la realitat, mentre que els escèptics com Hume qüestionaven la capacitat de la raó per obtenir coneixement cert. El "tribunal de la raó" és una metàfora utilitzada per Kant per descriure el procés crític pel qual la raó ha de passar per examinar i validar les seves pròpies capacitats i  establir els límits i les possibilitats del coneixement humà.
+
+> És la pròpia raó la que se sotmet a exàmen
 
 ### La crítica de la raó pura
 
