@@ -15,6 +15,7 @@
         - Mentida i homicidi 
         - 5 formulacions
     - Moralitat i legalitat 
+- [Teologia](/illustracio/kant/teologia.md)
 - [Filosofia de la història](/illustracio/kant/filosofia-historia.md)
     - El dret 
     - Àmbit individual i intersubjectiu 
