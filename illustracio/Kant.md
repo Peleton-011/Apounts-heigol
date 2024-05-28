@@ -1,24 +1,24 @@
-- [Vida de Kant (períodes)](/illustracio/kant/vida)
-- [Dogmatisme/escepticisme](/illustracio/kant/dogmatisme-escepticisme)
-- [Tribunal de la raó](/illustracio/kant/tribunal-rao)
-- [Filosofia transdencental](/illustracio/kant/filosofia-transcendental)
-- [La revolució copernicana](/illustracio/kant/revolucio-copernicana)
+- [Vida de Kant (períodes)](/illustracio/kant/vida.md)
+- [Dogmatisme/escepticisme](/illustracio/kant/dogmatisme-escepticisme.md)
+- [Tribunal de la raó](/illustracio/kant/tribunal-rao.md)
+- [Filosofia transdencental](/illustracio/kant/filosofia-transcendental.md)
+- [La revolució copernicana](/illustracio/kant/revolucio-copernicana.md)
     - Fenomen (materia+forma) /concepte 
     - judicis analitics/sintetics 
-- [Sensibilitat i enteniment](/illustracio/kant/sensibilitat-enteniment)
-- [La taula de les categories](/illustracio/kant/taula-categories)
-- [La imaginació](/illustracio/kant/imaginacio)
-- [El Jo transcendental](/illustracio/kant/jo)
-- [Ètica de Kant](/illustracio/kant/etica)
+- [Sensibilitat i enteniment](/illustracio/kant/sensibilitat-enteniment.md)
+- [La taula de les categories](/illustracio/kant/taula-categories.md)
+- [La imaginació](/illustracio/kant/imaginacio.md)
+- [El Jo transcendental](/illustracio/kant/jo.md)
+- [Ètica de Kant](/illustracio/kant/etica.md)
     - Tercera antinòmia 
     - Imperatiu categòric 
         - Mentida i homicidi 
         - 5 formulacions
     - Moralitat i legalitat 
-- [Filosofia de la història](/illustracio/kant/filosofia-historia)
+- [Filosofia de la història](/illustracio/kant/filosofia-historia.md)
     - El dret 
     - Àmbit individual i intersubjectiu 
     - Insociable sociabilitat 
         - Dret polític, gents, cosmopolita 
     - Pau perpètua 
-- [Estètica](/illustracio/kant/estetica)
+- [Estètica](/illustracio/kant/estetica.md)
