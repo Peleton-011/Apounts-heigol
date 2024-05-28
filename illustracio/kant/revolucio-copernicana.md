@@ -43,11 +43,13 @@ graph TD;
     A-->C[Forma];
     C-->D[Espai];
     C-->E[Temps];
-    D-->F[Fan possible tota intuïció; 
-    condició a priori de tota sensibilitat];
+    D-->F|Fan possible tota intuïció; 
+    condició a priori de tota sensibilitat|;
     E-->F;
     B-->G["Enteniment (concepte)"];
     F-->G;
+    G-->H|Categories|;
+    H-->[Coneixement]
 ```
 
 ### Judicis analítics i sintètics
