@@ -1,0 +1,6 @@
+- Primer discurs 
+- Politesse, Mollesse, Homme Policé 
+- Home natural 
+- Propietat privada 
+- Voluntat general 
+- Requisits del contracte social 

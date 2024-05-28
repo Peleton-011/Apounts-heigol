@@ -1,0 +1,24 @@
+- [Vida de Kant (períodes)](/illustracio/kant/vida)
+- [Dogmatisme/escepticisme](/illustracio/kant/dogmatisme-escepticisme)
+- [Tribunal de la raó](/illustracio/kant/tribunal-rao)
+- [Filosofia transdencental](/illustracio/kant/filosofia-transcendental)
+- [La revolució copernicana](/illustracio/kant/revolucio-copernicana)
+    - Fenomen (materia+forma) /concepte 
+    - judicis analitics/sintetics 
+- [Sensibilitat i enteniment](/illustracio/kant/sensibilitat-enteniment)
+- [La taula de les categories](/illustracio/kant/taula-categories)
+- [La imaginació](/illustracio/kant/imaginacio)
+- [El Jo transcendental](/illustracio/kant/jo)
+- [Ètica de Kant](/illustracio/kant/etica)
+    - Tercera antinòmia 
+    - Imperatiu categòric 
+        - Mentida i homicidi 
+        - 5 formulacions
+    - Moralitat i legalitat 
+- [Filosofia de la història](/illustracio/kant/filosofia-historia)
+    - El dret 
+    - Àmbit individual i intersubjectiu 
+    - Insociable sociabilitat 
+        - Dret polític, gents, cosmopolita 
+    - Pau perpètua 
+- [Estètica](/illustracio/kant/estetica)
