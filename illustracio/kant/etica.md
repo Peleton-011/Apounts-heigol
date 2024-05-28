@@ -4,6 +4,22 @@ L'ètica de Kant és un dels aspectes més influents i discutits de la seva filo
 
 L'ètica kantiana es basa en la idea que les accions morals no són valorades per les seves conseqüències sinó per la intenció darrere d'elles i la seva conformitat amb un principi moral universal. Kant sosté que la moralitat es basa en la raó i que les accions morals són aquelles que poden ser universalitzades.
 
+### El faktum de la moral
+
+El "faktum de la moral" en la filosofia de Kant es refereix al reconeixement que els éssers humans tenen d'una llei moral interior, independent de les seves inclinacions i desitjos particulars. En altres paraules, Kant sosté que hi ha una certesa inherent a la moralitat, que trascendeix la experiència empírica i que és reconeguda per la raó.
+
+Aquesta idea és central en la seva filosofia moral, ja que Kant argumenta que aquesta llei moral no es deriva de l'experiència o de les circumstàncies particulars, sinó que és universal i necessària. Per a Kant, la moralitat no depèn de les nostres inclinacions personals o dels resultats concrets de les nostres accions, sinó que es basa en el deure i en el respecte per la llei moral.
+
+Així doncs, el "faktum de la moral" és el reconeixement que, malgrat les diferències culturals i individuals, hi ha una llei moral que els éssers humans perceben com a vàlida i obligatòria. Aquesta percepció és fonamental per a la seva teoria ètica, ja que serveix com a fonament per al seu imperatiu categòric i per a la seva concepció de la moralitat com a expressió de la raó pràctica.
+
+#### Relació amb la fe
+
+Kant sosté que la moralitat té una base racional que no es pot reduir a factors purament empírics. Això implica que la moralitat té una dimensió que ens connecta amb una realitat trascendent, que va més enllà de les experiències sensorials i els fenòmens naturals.
+
+D'altra banda, Kant també defensa la racionalitat de la fe, argumentant que la raó humana necessita posar límits a la seva investigació per tal d'obtenir coherència i significat. Aquesta racionalitat de la fe no es basa en la revelació divina o en la autoritat religiosa, sinó en la necessitat pràctica de la raó humana d'acceptar certes creences com a fonamentals per a la seva pràctica moral i la seva comprensió de la realitat.
+
+Per tant, la defensa de la fe racional en Kant es relaciona amb el "faktum de la moral" en la mesura que tots dos apunten cap a una dimensió trascendent de la realitat que no es pot reduir a la investigació empírica, i que és essencial per a la comprensió de la moralitat i la vida humana en general.
+
 ### Tercera antinòmia
 
 La tercera antinòmia a Kant tracta sobre la relació entre la llibertat i la necessitat en l'univers. Aquí tens una explicació i la manera com Kant intenta resoldre-la:
