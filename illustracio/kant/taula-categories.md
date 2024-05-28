@@ -21,28 +21,6 @@ La taula de les categories de Kant és una part fonamental de la seva "Crítica 
 |              | Necessitat / Contingència           | Referència a si una cosa ha de ser necessàriament així o podria ser d'una altra manera.            |
 
 
-Kant divideix les categories en quatre grups principals, cadascun amb tres categories:
-
-1. **Quantitat**
-   - **Unitat**: Indica el concepte d'un sol objecte.
-   - **Pluralitat**: Indica el concepte de múltiples objectes.
-   - **Totalitat**: Indica el concepte de la suma de tots els objectes en una col·lecció.
-
-2. **Qualitat**
-   - **Realitat**: Fa referència a l'existència d'una propietat o característica.
-   - **Negació**: Fa referència a l'absència d'una propietat o característica.
-   - **Limitació**: Combina realitat i negació, referint-se a una realitat determinada per límits o condicions.
-
-3. **Relació**
-   - **Inherència i Subsistència (Substància i accident)**: Substància és allò que existeix independentment, mentre que els accidents són propietats que depenen de la substància.
-   - **Causalitat i Dependència (Causa i efecte)**: Relació entre una causa i el seu efecte.
-   - **Reciprocitat (Acció recíproca o interacció)**: Relació d'interacció mútua entre substàncies.
-
-4. **Modalitat**
-   - **Possibilitat / Impossibilitat**: Referència a si una cosa pot o no existir.
-   - **Existència / No-existència**: Referència a la presència o absència d'una cosa en la realitat.
-   - **Necessitat / Contingència**: Referència a si una cosa ha de ser necessàriament així o podria ser d'una altra manera.
-
 ### Explicació detallada de cada grup
 
 #### 1. Quantitat
