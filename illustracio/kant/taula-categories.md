@@ -2,8 +2,8 @@ La taula de les categories de Kant és una part fonamental de la seva "Crítica 
 
 ### La Taula de les Categories
 
-| Grup         | Categoria                           | Descripció                                                                                        |
-|--------------|-------------------------------------|---------------------------------------------------------------------------------------------------|
+| Grup         | Categoria                           | Descripció                                              |
+|--------------|-------------------------------------|--------------------------------------------------------------------|
 | Quantitat    | Unitat                              | Indica el concepte d'un sol objecte.                                                              |
 |              | Pluralitat                          | Indica el concepte de múltiples objectes.                                                          |
 |              | Totalitat                           | Indica el concepte de la suma de tots els objectes en una col·lecció.                             |
