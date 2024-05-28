@@ -1,5 +1,26 @@
 
-La filosofia de Kant representa una autèntica revolució en la manera de pensar sobre el coneixement i la realitat, sovint referida com la "revolució copernicana" en filosofia. Aquest concepte, juntament amb les seves idees sobre fenòmens i conceptes, i la distinció entre judicis analítics i sintètics, constitueix el nucli de la seva filosofia crítica.
+### El problema
+
+Kant observa que, a diferència de les ciències, la metafísica no ha pogut avançar al llarg del temps. Què és allò propi de la ciència que li ha permès arribar a coneixement universal i necessari del món? És possible aplicar-ho a la metafísica?
+
+Com és possible que la ciència sigui capaç de donar judicis sintètics *a priori*?
+
+És un *Faktum* que hi ha coneixement/fenòmen/representació. Per a Kant això vol dir que hi han judicis universals i necessaris.
+
+```
+    Coneixement === Judici
+    << A és B >>
+
+    on:
+        A és una Intuïció (Fenòmen)
+        B és un Concepte (Pensament de la unitat en la diversitat)
+```
+
+Així Kant planteja que hi ha dos components fonamentals en la formació del coneixement: la sensibilitat i l'enteniment. La sensibilitat és la capacitat pels nostres sentits de rebre informació del món exterior, com ara colors, formes, textures, etc. (Fenòmen) Aquesta informació sensorial forma la matèria prima del coneixement, però Kant argumenta que no és suficient per explicar tot el coneixement humà.
+
+A més de la sensibilitat, hi ha l'enteniment, que organitza i interpreta la informació sensorial. L'enteniment opera mitjançant les seves estructures a priori, com ara les categories del temps i de l'espai, i els conceptes fonamentals com causa i efecte. Aquestes estructures i conceptes són innates a la ment humana, segons Kant, i actuen com a filtres a través dels quals processem i entenem la informació que rebem dels nostres sentits.
+
+Així, mentre que l'experiència és necessària per al coneixement, la manera com interpretem i entenem aquesta experiència està influïda per les estructures i formes innates de la nostra ment. Aquesta idea implica que hi ha una interacció complexa entre la percepció sensorial i la interpretació conceptual, i que el coneixement no és simplement una reflexió passiva de la realitat exterior, sinó una construcció activa que es basa en l'experiència però també està influïda per les capacitats cognitives inherents de la ment humana. Aquesta visió proporciona una base filosòfica per entendre la relació entre el subjecte i l'objecte del coneixement, així com els límits i les possibilitats del coneixement humà.
 
 ### La revolució copernicana
 
