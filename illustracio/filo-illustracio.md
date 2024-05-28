@@ -25,6 +25,12 @@ Segons Hobbes, per evitar aquest estat de guerra, els humans han de cedir els se
 
 [Explicació completa](/illustracio/Locke.md)
 
+John Locke va ser un filòsof empirista anglès del segle XVII que va tenir un impacte profund en la filosofia política i en el pensament occidental en general. Va defensar la idea que l'origen del coneixement es troba en l'experiència i va rebutjar la noció de les idees innates. A més a més, va argumentar que tots els éssers humans neixen sense cap idea preconcebuda i que adquireixen el coneixement mitjançant l'experiència sensorial.
+
+Locke va ser un defensor ferreny dels drets naturals, com ara el dret a la vida, la llibertat i la propietat. Va influir en la concepció moderna dels drets humans i va argumentar que el propòsit del govern és protegir aquests drets. A més a més, va afirmar que els governs legítims han de ser basats en el consentiment dels governats i poden ser revocats si no compleixen aquesta funció.
+
+La seva obra més influent és "Dos tractats sobre el govern civil", on desenvolupa aquestes idees i defensa la separació de poders, la tolerància religiosa i la resistència al despotisme. En resum, Locke va ser un dels pioners del liberalisme polític i va establir els fonaments per a moltes de les institucions democràtiques i valors que són importants avui en dia.
+
 </details>
 <details>
 <summary>Rousseau</summary>
