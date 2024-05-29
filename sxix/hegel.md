@@ -9,7 +9,6 @@ Los subtemas dentro de este marco incluyen:
 
 Estos subtemas son esenciales para comprender la contribución de Hegel a la filosofía y cómo su pensamiento se relaciona con los desafíos contemporáneos de la metafísica y la postmetafísica.
 
-Origen: Conversación con Bing, 24/5/2024
 (1) Metafísica y ética en el pensamiento de Hegel - Dialnet. https://dialnet.unirioja.es/descarga/articulo/2731189.pdf.
 (2) Entre el pensamiento post-metafísico y el post-fundacionalismo. La .... https://proyectoscio.ucv.es/wp-content/uploads/2020/02/1072-1072-1-PB.pdf.
 (3) 6: Metafísica - LibreTexts Español. https://bing.com/search?q=Tema+y+subtemas+de+la+metafisica+y+postmetafisica+de+Hegel.
