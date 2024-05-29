@@ -1,5 +1,5 @@
 # Filosofía del s. XIX
 
-[Hegel](/sxix/hegel.md)
-[Kierkegaard](/sxix/kierkegaard.md)
+[Hegel](/sxix/hegel.md) <br>
+[Kierkegaard](/sxix/kierkegaard.md) <br>
 [Nietzsche](/sxix/nietzsche.md)
