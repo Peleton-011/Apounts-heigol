@@ -1,5 +1,7 @@
 # nich
 
+### El crepúsculo de los ídolos
+
 "El crepúsculo de los ídolos" (1889) es una de las últimas obras de Friedrich Nietzsche, en la cual critica profundamente la filosofía, la religión y la cultura occidental. Los temas y subtemas principales de la obra son variados y están interconectados. A continuación, se presentan algunos de los más relevantes:
 
 ### 1. **Crítica a la Filosofía Occidental**
